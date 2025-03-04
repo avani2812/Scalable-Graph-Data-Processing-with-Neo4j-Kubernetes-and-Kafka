@@ -81,7 +81,7 @@ Graph data analysis is crucial in fields like social networks, bioinformatics, a
 ### Phase 2: Distributed Deployment
 1. Navigate to the phase2 directory:
    ```sh
-   cd ../Phase2-Scalable_Data_Processing
+   cd ../Phase2_Scalable_Data_Processing
    ```
 2. Start Kubernetes and deploy Kafka:
    ```sh
