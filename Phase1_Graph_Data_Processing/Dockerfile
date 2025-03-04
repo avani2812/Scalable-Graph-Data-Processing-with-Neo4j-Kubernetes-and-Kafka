@@ -1,6 +1,7 @@
 # Base image: ubuntu:22.04
 FROM ubuntu:22.04
 
+
 # ARGs
 ARG TARGETPLATFORM=linux/amd64,linux/arm64
 ARG DEBIAN_FRONTEND=noninteractive
