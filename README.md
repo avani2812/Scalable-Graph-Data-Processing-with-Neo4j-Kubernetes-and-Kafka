@@ -51,7 +51,7 @@ Graph data analysis is crucial in fields like social networks, bioinformatics, a
 │   ├── kafka-neo4j-connector.yaml
 │   ├── zookeeper-setup.yaml
 │   ├── kafka_setup.yaml
-│   ├── neo4j-values
+│   ├── neo4j-values.yaml
 
 ```
 
