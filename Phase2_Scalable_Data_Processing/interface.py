@@ -1,6 +1,5 @@
 from neo4j import GraphDatabase
 
-
 class Interface:
     def __init__(self, uri, user, password):
         self._driver = GraphDatabase.driver(uri, auth=(user, password), encrypted=False)
